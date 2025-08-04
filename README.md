@@ -13,7 +13,7 @@
 
   <!-- Badges de seguidores, repositórios e linguagens mais usadas -->
   ![Murilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Murilo433&show_icons=true&theme=radical)
-
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Murilo433&theme=radical)](https://github.com/Murilo433/Financeiro)
 </div>
 
 ---
