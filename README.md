@@ -51,23 +51,9 @@
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
 </p>
 
-
-## 📊 Estatísticas no GitHub
-
-<!-- use o GitHub Readme Stats ou GitHub Profile README Generator -->
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Murilo433&show_icons=true&theme=default&hide_border=true" alt="Murilo's GitHub stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murilo433&layout=compact&theme=default&hide_border=true" alt="Top languages" />
-</div>
-
 ---
 
 ## 📫 Como me encontrar
 
-- 🔗 LinkedIn: [seu-perfil](https://linkedin.com/in/seu-usuario)  
-- ✉️ E-mail: seu.email@dominio.com  
-- 🐦 Twitter: [@seu_twitter](https://twitter.com/seu_twitter)  
-
----
-
-<sub>Feito com ❤️ e ☕️ por Murilo Henrique</sub>
+- 🔗 LinkedIn: [seu-perfil](https://www.linkedin.com/in/murilo-h-1b2062110)  
+- ✉️ E-mail: murilo_oliveiraa@hotmail.com  
