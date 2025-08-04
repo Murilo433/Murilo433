@@ -14,7 +14,7 @@
 
   <!-- Badges de seguidores, repositórios e linguagens mais usadas -->
   <a href="https://github.com/seu-usuario">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/seu-usuario?label=Seguidores&style=social" />
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/murilo433?label=Seguidores&style=social" />
   </a>
   <img src="https://img.shields.io/github/repo-size/seu-usuario/seu-usuario?label=Tamanho%20total" alt="Repo size" />
   <img src="https://img.shields.io/github/languages/top/seu-usuario/seu-repo-destacado" alt="Top Language" />
