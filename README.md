@@ -7,9 +7,8 @@
   <h1>Olá, eu sou o Murilo Henrique 👋</h1>
 
   <p>
-    🎯 Desenvolvedor .NET | 🚀 Apaixonado por automação e arquitetura de software  
-    📚 Estudando pós-graduação em Arquitetura de Software  
-    🌱 Aprendendo sempre React e boas práticas de DevOps  
+    🎯 Desenvolvedor .NET | 🚀 Graduado em Gestão de Tecnologia da Informação, 
+    apaixonado por tecnologia, especializado em desenvolvimento web, e sempre em busca de aprender novas tecnologias.  
   </p>
 
   <!-- Badges de seguidores, repositórios e linguagens mais usadas -->
