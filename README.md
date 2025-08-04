@@ -45,6 +45,22 @@
   <img align="center" alt="Murilo-AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
 </div>
 
+## 🚀 Tecnologias que uso no dia a dia
+
+<p align="left">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/REACT%20NATIVE-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/POSTGRESQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/REDIS-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/HANGFIRE-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FLUENTVALIDATION-3E69C0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AUTOMAPPER-8A2BE2?style=for-the-badge" />
+</p>
+
+
 ## 📊 Estatísticas no GitHub
 
 <!-- use o GitHub Readme Stats ou GitHub Profile README Generator -->
