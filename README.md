@@ -13,7 +13,7 @@
   </p>
 
   <!-- Badges de seguidores, repositórios e linguagens mais usadas -->
-  ![Murilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Murilo433&show_icons=true&theme=dracula&hide_title=true&hide_rank=true )
+  ![Murilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Murilo433&show_icons=true&theme=radical)
 
 </div>
 
