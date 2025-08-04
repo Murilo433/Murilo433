@@ -15,8 +15,6 @@
   <!-- Badges de seguidores, repositórios e linguagens mais usadas -->
   ![Murilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Murilo433&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Murilo433)](https://github.com/anuraghazra/github-readme-stats)
-
 </div>
 
 ---
@@ -33,23 +31,22 @@
 
 ## 🛠️ Tecnologias & Ferramentas
 
-<div align="center">
-  <img src="https://img.shields.io/badge/.NET-6-blue?logo=dotnet" alt=".NET 6" />
-  <img src="https://img.shields.io/badge/C%23-9.0-blueviolet?logo=c-sharp" alt="C#" />
-  <img src="https://img.shields.io/badge/React-Native-20232A?logo=react" alt="React Native" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis" alt="Redis" />
-  <img src="https://img.shields.io/badge/Hangfire-000000?logo=hangfire" alt="Hangfire" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker" alt="Docker" />
-  <img src="https://img.shields.io/badge/GitHub-A6ACAF?logo=github" alt="GitHub" />
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
 ## 📊 Estatísticas no GitHub
 
 <!-- use o GitHub Readme Stats ou GitHub Profile README Generator -->
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=default&hide_border=true" alt="Murilo's GitHub stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=default&hide_border=true" alt="Top languages" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Murilo433&show_icons=true&theme=default&hide_border=true" alt="Murilo's GitHub stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murilo433&layout=compact&theme=default&hide_border=true" alt="Top languages" />
 </div>
 
 ---
